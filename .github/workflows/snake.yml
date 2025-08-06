@@ -10,29 +10,32 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      # ✅ Step 1: Clone your repo
-      - name: Checkout repository
+      # ✅ Step 1: Checkout the repository
+      - name: Checkout the repo
         uses: actions/checkout@v3
 
-      # ✅ Step 2: Generate snake animation
-      - name: Generate GitHub Contributions Snake
+      # ✅ Step 2: Setup Git (for debugging Git issues)
+      - name: Debug Git Info
+        run: |
+          git --version
+          git config --list
+
+      # ✅ Step 3: Generate the Snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: nilo-yinc
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ✅ Step 3: Deploy to GitHub Pages
-      - name: Push to output branch
+      # ✅ Step 4: Push to the output branch
+      - name: Push to the output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          publish_dir: ./dist
