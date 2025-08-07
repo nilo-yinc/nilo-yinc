@@ -27,17 +27,19 @@
 
 ---
 
-### 🌐 Connect with me:
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://twitter.com/nilo_yinc" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/niloy-mallik" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/nilo_yinc" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
   </a>
 </p>
 
@@ -53,18 +55,18 @@
 
 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilo-yinc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilo-yinc&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilo-yinc&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilo-yinc&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilo-yinc&" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nilo-yinc&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
