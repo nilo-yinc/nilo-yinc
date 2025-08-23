@@ -70,9 +70,8 @@
 </p>
 
 ---
+
 ### 🐍 My Contributions Snake
 
-<div align="center" style="background-color:black;">
-  <img src="https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake-dark.svg" />
-</div>
+![GitHub Snake Dark](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake-dark.svg)
 
