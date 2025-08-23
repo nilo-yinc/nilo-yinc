@@ -71,10 +71,5 @@
 
 ---
 
-### 🐍 My Contributions Snake
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake-dark.svg)
-
-
 ![snake gif](https://github.com/nilo-yinc/nilo-yinc/blob/output/github-contribution-grid-snake.gif)
 
