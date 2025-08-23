@@ -70,6 +70,8 @@
 </p>
 
 ---
+### 🐍 My Contributions Snake
 
-![snake gif](https://github.com/nilo-yinc/nilo-yinc/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Dark](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake-dark.svg)
+
 
