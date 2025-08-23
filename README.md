@@ -70,3 +70,8 @@
 </p>
 
 ---
+
+### 🐍 My Contributions Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake.svg#gh-dark-mode-only)
+
