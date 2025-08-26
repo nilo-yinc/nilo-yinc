@@ -69,7 +69,12 @@
   <img src="https://streak-stats.demolab.com/?user=nilo-yinc&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi5404&theme=tokyonight&hide_border=true&border_radius=10" width="98%"/>
+</p>
+
 ---
+
 ### 🐍 My Contributions Snake
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake-dark.svg)
