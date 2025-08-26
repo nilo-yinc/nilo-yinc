@@ -71,20 +71,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilo-yinc&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilo-yinc&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nilo-yinc&theme=radical&hide_border=false&v=1" alt="GitHub Streak" />
-</p>
-
 ### 🐍 My Contributions Snake
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/nilo-yinc/nilo-yinc/output/snake-dark.svg)
