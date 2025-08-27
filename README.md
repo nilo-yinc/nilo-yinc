@@ -69,9 +69,9 @@
   <img src="https://streak-stats.demolab.com/?user=nilo-yinc&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nilo-yinc&theme=tokyonight&hide_border=true&border_radius=10" width="50%"/>
-</p>
+##<p align="center">
+  ##<img src="https://github-readme-streak-stats.herokuapp.com?user=nilo-yinc&theme=tokyonight&hide_border=true&border_radius=10" width="50%"/>
+##</p>
 
 ---
 
