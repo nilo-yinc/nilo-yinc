@@ -1,17 +1,16 @@
 
-
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Niloy+Mallik;Full+Stack+Developer+%7C+MERN+%7C+GenAI+%7C+UI%2FUX;Open+Source+%26+Hackathon+Enthusiast" alt="Typing SVG" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB2Zmx1OG5heXhvOHY0eGxkdWE5dzZvazc3OXppbXFrYjRnNmM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" 
-       alt="Coding animation" 
-       width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Niloy+Mallik;Full+Stack+Developer+%7C+MERN+%7C+GenAI;Open+Source+%26+Hackathon+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-
+<!-- Coding GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJlbGhpNHE5dmhneXdxZHJ1bTM3Nmc4eW5veThiOHQ0NTFuN2JzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" alt="dev" height="30%" width="50%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB2Zmx1OG5heXhvOHY0eGxkdWE5dzZvazc3OXppbXFrYjRnNmM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"
+       alt="Coding animation"
+       width="350" />
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nilo-yinc&label=Profile%20views&color=0e75b6&style=flat" alt="nilo-yinc" />
