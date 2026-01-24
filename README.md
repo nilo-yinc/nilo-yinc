@@ -1,8 +1,5 @@
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Niloy+Mallik;Full+Stack+Developer+%7C+MERN+%7C+GenAI;Open+Source+%26+Hackathon+Enthusiast" alt="Typing SVG" />
-</p>
+
 
 <!-- Coding GIF -->
 <p align="center">
