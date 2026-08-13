@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning **Full Stack Development with GenAI**
 - 💬 Ask me about **anything related to my tech stack**
 - 📫 Reach me at: **niloymallik0001@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1GUkgwqqXtiXXljO1czrIchyjPO-0WY_N/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/19qr_s4ZWMQjmou2__FA5HNtvrNvpzoQf/view?usp=sharing)
 - ⚡ Fun fact: **You might not see many repos — but skills are real 😉**
 
 ---
